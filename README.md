@@ -4,7 +4,7 @@ Scrollspy ability that works with Bootstrap collapse as the nav.<br/>
 <strong>Requirements:</strong><br/>
 jQuery
 
-Instructions: <br/>
+<strong>Instructions:</strong> <br/>
 gridTop - Change the decimal value. e.g. .45 = 45% down the page.<br/>
 gridBottom - Change the decimal value. e.g. .65 = 65% down the page.<br/>
 
